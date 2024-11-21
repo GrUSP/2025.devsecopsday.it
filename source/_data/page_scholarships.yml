@@ -1,0 +1,25 @@
+intro:
+  main_title: "Scholarship / Borse di studio"
+  content_1: "La diversità e l'inclusività sono importanti"
+  content_2: "Di cosa si tratta"
+  content_3: "Il nostro scopo è quello di creare una conferenza accessibile e accogliente, dove persone di diversa provenienza possano incontrarsi, sentirsi sicure e libere di esprimersi. Vogliamo permettere a tutte le persone di partecipare alle nostre conferenze e promuovere una <b>comunità inclusiva</b>."
+short_version:
+  title:
+  content_1: "Siamo coinvolti in molti modi per costruire un ambiente migliore nel settore tecnologico, per tutti. Nel 2016 siamo diventati <strong>Diversity Sponsor</strong> della campagna <a target='_blank' href='https://www.kickstarter.com/projects/1817732114/the-phpdiversity-rainbow-elephpant'>The PHPDiversity Rainbow Elephpant campaign</a> su Kickstarter quando il progetto sembrava sul punto di concludersi senza successo. Siamo molto orgogliosi che molti altri ci abbiano seguito e che il progetto abbia raggiunto il suo obiettivo. Nel 2019 abbiamo sponsorizzato e organizzato per la prima volta <a target='_blank' href='http://railsgirls.com/verona2019.html'>RailsGirls Verona</a>, un workshop gratuito di coding per donne."
+  content_2: "Sappiamo bene che per alcune persone partecipare a una conferenza potrebbe essere difficile, a causa di circostanze personali o finanziarie. Per questo motivo offriamo biglietti scontati o gratuiti soprattutto a coloro che sono sottorappresentati ed emarginati nel settore tecnologico (donne, membri della comunità LGBTQIA+, persone con disabilità, minoranze o altri gruppi sottorappresentati) e a tutti coloro che altrimenti non sarebbero in grado di partecipare senza assistenza finanziaria."
+  content_3:
+  content_4:
+  content_5:
+  content_6:
+long_version:
+  title:
+  content_1: "Richiedi la tua borsa di studio"
+  content_2_beginning: "Chiunque può richiedere la borsa di studio "
+  content_2_link_label: "per un biglietto singolo per partecipare a devsecopsday"
+  content_2_link_url: "https://forms.gle/K7b38LbqVuAJ61MK9"
+  content_2_ending: "  . Comunicheremo a tutti i candidati l'esito della loro domanda. Non copriamo le spese di viaggio o alloggio."
+  content_3: "Sponsor"
+  content_4: "Stiamo cercando 'diversity sponsor' per finanziare questo programma e consentire a GrUSP di offrire più borse di studio possibili! Se rappresenti un'azienda tecnologica che vuole dare un contributo alla comunità degli sviluppatori, contattaci!"
+  content_5: "Contatto"
+  content_6: "Se hai domande o dubbi non esitare a contattarci "
+diversity_sponsors_title: ""
