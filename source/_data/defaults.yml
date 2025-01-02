@@ -22,12 +22,12 @@ conference:
   # contact email
   contact_email: "devsecopsday@grusp.org"
   # these are for the hero section
-  title_pre: ""
+  title_pre: "DevOps & Security:"
   title: "devsecopsday 2025"
   city: "Bologna"
-  date: ""
+  date: 2025-11-04T09:00+01:00
   # Use the next field to override the date in the hero
-  hero_date_text: "Autunno 2025!"
+  hero_date_text: "Martedì 4 Novembre 2025!"
   countdown_visible: false
   countdown_days: "giorni"
   countdown_hours: "ore"
@@ -46,18 +46,20 @@ conference:
   update_link_url: "https://google.com/"
   update_link_label: "link to google, just for the demo"
   # "call for papers" component. set the first parameter to true to make it appear in home page, false means hidden
-  cfp_open: false
+  cfp_open: true
   cfp_readmore_label: "Continua a leggere"
   cfp_open_label: "Proponi un talk entro il"
   cfp_open_title: "Call For Papers aperta!"
-  cfp_deadline: 2023-06-25T23:59+02:00
+  cfp_deadline: 2025-06-08T23:59+02:00
   cfp_register_label: "Invia la tua proposta"
   cfp_register_aria_label: "Inviaci ora la tua proposta"
   # "general information" ("what is it?") component
   geninfo_visible: true
   geninfo_title: "Che cos'è?"
   geninfo_description: "devsecopsday è la prima conferenza italiana dedicata alla pratiche di sicurezza in ambito DevOps - dallo stesso team che organizza <a href='https://incontrodevops.it'>Incontro DevOps Italia</a> e <a href='https://containerday.it'>containerday.</a>
-  </p><p>devsecopsday si svolge a Bologna. Si può partecipare in presenza oppure online."
+  <p>Che tu sia System Administrator, DevOps Engineer, o IT manager, questa conferenza ti fornirà gli strumenti e le conoscenze necessarie per affrontare le complessità della sicurezza nell'era DevOps.
+  <p><b>devsecopsday si svolge a Bologna, Martedì 4 Novembre 2025.</b></p>
+  <p>Il giorno dopo, nella stessa location, si svolge la conferenza dedicata al mondo della containerizzazione e virtualizzazione: <a href='https://containerday.it' target=_blank>containerday</a>. Puoi acquistare i biglietti 'bundle' per partecipare ad entrambe."
   geninfo_about_label: "About"
   geninfo_coc_label: "Codice di condotta"
   geninfo_scholarships_label: "Scholarship"
@@ -113,19 +115,19 @@ conference:
   workshops_register_label: "Registrati"
   # Media section in home page. set the first parameter to true to make it appear in home page, false means hidden
   media_visible: true
-  media_pic_1: ""
-  media_pic_2: ""
-  media_pic_3: ""
-  media_pic_4: ""
+  media_pic_1: "1.jpg"
+  media_pic_2: "2.jpg"
+  media_pic_3: "3.jpg"
+  media_pic_4: "4.jpg"
   #   playlist: if true, the iframe will be created. if false, it will not
-  media_video_playlist: false
+  media_video_playlist: true
   # if `media_video_is_youtube` is `true`, the relevant playlist will be embedded via "media_video_playlist". If it is `false`, the relevant Vimeo channel will be embedded via "media_vimeo_channel"
-  media_video_is_youtube: false
+  media_video_is_youtube: true
   youtube_base_url: "https://www.youtube.com/embed/videoseries?list="
   # vimeo_base_url: "https://vimeo.com/channels/"
   # vimeo_url_suffix: "/embed"
   #   (embed YouTube playlist: prendere l'ID della lista dall'URL, la parte dopo '&list=', e metterla qui sotto)
-  youtube_playlist_id: "PLWK9j6ps_unmhH5KbPWc7NXwJJ46fnXFq"
+  youtube_playlist_id: "PLWK9j6ps_unmhH5KbPWc7NXwJJ46fnXFq&si=TFczqrQ0G-AYyC0J"
   #   (embed Vimeo showcase: prendere l'ID dello showcase e metterla qui sotto)
   # vimeo_showcase_id: "italiandevsecopsday"
   # Location section in home page. set the first parameter to true to make it appear in home page, false means hidden
@@ -138,10 +140,10 @@ conference:
   # image credits (l'esempio è per la hero del CSS Day!)
   venue_img_credits: ""
   # Sponsors section in home page. set the first parameter to true to make it appear in home page, false means hidden
-  sponsors_visible: false
+  sponsors_visible: true
   sponsor_title_home: "Grazie al supporto di"
   # this is for the Community partners section in home page
-  community_partners: false
+  community_partners: true
   community_partners_title: "Community partner"
   # community_partners_text: ""
   # this is for the Social links block
