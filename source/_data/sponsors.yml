@@ -15,10 +15,14 @@ sponsors_block_title: ""
 #     logo_filename: ""
 #     site_url: ""
 gold:
-  sponsor0:
+  sponsor1:
     name: "Daruma"
     logo_filename: "daruma.svg"
     site_url: "http://www.darumahq.com/"
+  sponsor2:
+    name: "SparkFabrik"
+    logo_filename: "sparkfabrik.svg"
+    site_url: "https://www.sparkfabrik.com/"
 silver:
   sponsor1:
     name: "workwave"
