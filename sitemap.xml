@@ -37,6 +37,13 @@
   </url>
   
   <url>
+    <loc>https://2025.devsecopsday.it/tickets/index.html</loc>
+    
+    <lastmod>2025-02-24</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://2025.devsecopsday.it/welcome/index.html</loc>
     
     <lastmod>2025-02-24</lastmod>
@@ -51,14 +58,7 @@
   </url>
   
   <url>
-    <loc>https://2025.devsecopsday.it/tickets/index.html</loc>
-    
-    <lastmod>2025-02-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://2025.devsecopsday.it/welcome/about.html</loc>
+    <loc>https://2025.devsecopsday.it/welcome/where.html</loc>
     
     <lastmod>2025-02-24</lastmod>
     
@@ -93,7 +93,7 @@
   </url>
   
   <url>
-    <loc>https://2025.devsecopsday.it/welcome/where.html</loc>
+    <loc>https://2025.devsecopsday.it/welcome/about.html</loc>
     
     <lastmod>2025-02-24</lastmod>
     
