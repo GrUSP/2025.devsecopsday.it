@@ -9,11 +9,11 @@ sponsors_block_title: ""
 #     name: ""
 #     logo_filename: ""
 #     site_url: ""
-# platinum:
-#   sponsor1:
-#     name: ""
-#     logo_filename: ""
-#     site_url: ""
+platinum:
+  sponsor1:
+    name: "umana"
+    logo_filename: "umana.png"
+    site_url: "https://www.umana.it/"
 gold:
   sponsor1:
     name: "Daruma"
@@ -25,22 +25,19 @@ gold:
     site_url: "https://www.sparkfabrik.com/"
 silver:
   sponsor1:
-    name: "workwave"
-    logo_filename: "workwave.svg"
-    site_url: "https://www.workwave.com/"
-  sponsor4:
     name: "Madisoft"
     logo_filename: "madisoft.svg"
     site_url: "https://labs.madisoft.it"
-#   sponsor6:
-#     name: "SiteGround"
-#     logo_filename: "siteground.png"
-#     site_url: "https://www.siteground.com/"
+  sponsor2:
+    name: "workwave"
+    logo_filename: "workwave.svg"
+    site_url: "https://www.workwave.com/"
+
 # bronze:
 #   sponsor2:
-#     name: "stickermule"
-#     logo_filename: "stickermule.svg"
-#     site_url: "https://mule.to/p2gc"
+#     name: ""
+#     logo_filename: ""
+#     site_url: ""
 # diversity:
 #   sponsor1:
 #     name: "S"
